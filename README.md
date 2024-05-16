@@ -35,7 +35,7 @@ You can predict coordinate of shuttlecock for a single video with:
 
 `python3 predict.py --video_name=<videoPath> --load_weights=<weightPath>`
 
-Use `python3 predict3.py --video_name=test.mp4 --load_weights=model906_30` to run
+Use `python3 predict3.py --video_name=test.mp4 --load_weights=model906_30` to process the test video
 
 Pretrained_weights `model906_30` https://drive.google.com/file/d/1fGkdDf6zqXAkYwgjCEpjRNgMYibxhND6/view?usp=sharing
 
