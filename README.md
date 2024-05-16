@@ -35,10 +35,12 @@ https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubu
 You can predict coordinate of shuttlecock for a single video with:
 
 `python3 predict.py --video_name=<videoPath> --load_weights=<weightPath>`
-    
-Just put the video path you want to predict on option `<videoPath>` . We provide the pretrain model weights `model_33` for 3_in_1_out version, and `model906_30` for 3_in_3_out version.
+
+Use `python3 predict3.py --video_name=test.mp4 --load_weights=model906_30` to run
 
 Pretrained_weights `model906_30` https://drive.google.com/file/d/1fGkdDf6zqXAkYwgjCEpjRNgMYibxhND6/view?usp=sharing
+
+Just put the video path you want to predict on option `<videoPath>` . We provide the pretrain model weights `model_33` for 3_in_1_out version, and `model906_30` for 3_in_3_out version.
 
 #### The result should look like : 
 
