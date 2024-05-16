@@ -11,7 +11,6 @@
 - TensorFlow 1.13.1/keras 2.2.4/Opencv 4.1.0/CUDA 10.1 (for TrackNetV2)
 
 ### Package
-- Docker file : docker pull baiduz/tracknetv2:v2
 - First, you have to install cuda, cudnn and tensorflow, tutorial:
 https://medium.com/@zhanwenchen/install-cuda-and-cudnn-for-tensorflow-gpu-on-ubuntu-79306e4ac04e
         
