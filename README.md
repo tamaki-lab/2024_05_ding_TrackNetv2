@@ -39,6 +39,8 @@ You can predict coordinate of shuttlecock for a single video with:
     
 Just put the video path you want to predict on option `<videoPath>` . We provide the pretrain model weights `model_33` for 3_in_1_out version, and `model906_30` for 3_in_3_out version.
 
+Pretrained_weights `model906_30` https://drive.google.com/file/d/1fGkdDf6zqXAkYwgjCEpjRNgMYibxhND6/view?usp=sharing
+
 #### The result should look like : 
 
 ![](https://i.imgur.com/blYMMBV.gif)
