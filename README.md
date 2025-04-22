@@ -1,7 +1,7 @@
 ###### tags: `CoachAI` `TrackNetV2` `GitLab`
 
 # TrackNetV2: Efficient TrackNet (GitLab) 
-This is a　Copy from a previously seen implementation (source no longer available).
+This is a Copy from a previously seen implementation (source no longer available).
 
 ## :gear: 1. Install
 ### System Environment
